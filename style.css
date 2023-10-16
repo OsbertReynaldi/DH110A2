@@ -156,3 +156,10 @@ svg:hover {
 #Wireframes{
   margin-top: -20%;
 }
+
+.apps{
+  margin-top: 10%;
+  min-width: 50%;
+  min-height: 60%;
+  margin-bottom: 20%;
+}
